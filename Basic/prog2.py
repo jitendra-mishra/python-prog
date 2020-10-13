@@ -1,7 +1,8 @@
-def person(name, age=18):
-    print("name=", name)
-    age = age-5
-    print("age=", age)
+def person(name, **data):
+    for i,j in data.items():
+        print(i,j)
+        print(data.get(i))
+    print(data)
 
-person(name='jitu')
+person('navin', age=25,city='blore',mob=98567)
 

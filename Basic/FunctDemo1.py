@@ -29,3 +29,13 @@ def fun_var(*num):
     print(len(num))
     
 fun_var(10,20,'jitu',4.5)
+
+#keyword with variable number of arguments
+def fun_keyword_var(name, **data):
+    print("name=", name)
+    for i, j in data.items():
+        print(i, j)
+    print(data)
+
+fun_keyword_var('jitu', age=22, city='blore', mob=94835)
+
