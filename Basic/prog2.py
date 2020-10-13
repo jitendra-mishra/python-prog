@@ -1,11 +1,7 @@
+def person(name, age=18):
+    print("name=", name)
+    age = age-5
+    print("age=", age)
 
-def sum(num):
-    if(num==1):
-        return 1
-    else:
-        return (num+sum(num-1))
-
-num = 5
-
-print(sum(num))
+person(name='jitu')
 
