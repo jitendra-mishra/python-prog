@@ -1,16 +1,17 @@
-# pass list to a function and returns number of even and odd numbers
-def getOddEven(my_lst):
-    even = odd = 0
-    l = []
-    print("Empty list", l)
-    for i in my_lst:
-        if i % 2 == 0:
-            even += 1
-        else:
-            odd += 1
-    return even, odd
+from functools import reduce
 
+def is_even(n):
+    return n%2
+def update(n):
+    return n*2
+def add_all(a,b):
+    return a+b
+nums = [2,6,4,19,11,20,34,122]
 
+evens = list(filter(lambda n: n%2 == 0, nums))
+print(evens)
+doubles = list(map(lambda n: n*2, evens))
+print(doubles)
 
-lst = [2, 5, 3, 9, 10, 6, 19, 20, 11, 99]
-print(getOddEven(lst))
+sum = reduce(lambda a,b: a+b,doubles)
+print(sum)

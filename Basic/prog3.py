@@ -6,3 +6,4 @@ def my_fun(my_list):
 
 lst = ['Jitu','Jitendra', 'Mita', 'Madhu', 'Samruddhi', 'Sambhrant']
 my_fun(lst)
+
