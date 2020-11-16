@@ -25,11 +25,45 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebde13c6-ae83-470a-9778-3db4aa09e434" name="Default Changelist" comment="Oct27" />
+    <list default="true" id="ebde13c6-ae83-470a-9778-3db4aa09e434" name="Default Changelist" comment="Oct27">
+      <change afterPath="$PROJECT_DIR$/Basic/Calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/DataHiding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/Decorator1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/Itr1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/OverloadDemo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/Prog7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/Prog8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/UseModule1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/abs1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/callUserModule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/gen1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/oop1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/oop2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/oop3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/poly1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/poly2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/prog4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/prog5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/prog6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/userModule2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/varName.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCrashCourse/prog1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/FunctDemo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/FunctDemo1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/LamdaExample.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/LamdaExample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/prog3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/prog3.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -40,6 +74,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jT6mrmYivcx1uqj6FB7Pvgrv5T" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,6 +84,122 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.Itr1">
+    <configuration name="Itr1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-prog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/Itr1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="abs1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-prog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/abs1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="oop3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-prog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/oop3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="poly1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-prog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/poly1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="poly2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-prog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/poly2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Itr1" />
+        <item itemvalue="Python.abs1" />
+        <item itemvalue="Python.poly2" />
+        <item itemvalue="Python.poly1" />
+        <item itemvalue="Python.oop3" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -96,15 +249,56 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Oct27" />
     <option name="LAST_COMMIT_MESSAGE" value="Oct27" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1603816299831">
+    <state width="1419" height="267" key="GridCell.Tab.0.bottom" timestamp="1605290404205">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.830@0.23.1440.830" timestamp="1603816299831" />
+    <state width="1419" height="267" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1605290404205" />
+    <state width="1419" height="267" key="GridCell.Tab.0.center" timestamp="1605290404204">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1419" height="267" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1605290404204" />
+    <state width="1419" height="267" key="GridCell.Tab.0.left" timestamp="1605290404204">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1419" height="267" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1605290404204" />
+    <state width="1419" height="267" key="GridCell.Tab.0.right" timestamp="1605290404204">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1419" height="267" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1605290404204" />
+    <state width="1419" height="267" key="GridCell.Tab.1.bottom" timestamp="1605290404206">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1419" height="267" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1605290404206" />
+    <state width="1419" height="267" key="GridCell.Tab.1.center" timestamp="1605290404205">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1419" height="267" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1605290404205" />
+    <state width="1419" height="267" key="GridCell.Tab.1.left" timestamp="1605290404205">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1419" height="267" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1605290404205" />
+    <state width="1419" height="267" key="GridCell.Tab.1.right" timestamp="1605290404206">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1419" height="267" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1605290404206" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1603817152091">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.830@0.23.1440.830" timestamp="1603817152091" />
+    <state x="421" y="193" width="598" height="490" key="find.popup" timestamp="1603823227831">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="421" y="193" width="598" height="490" key="find.popup/0.23.1440.830@0.23.1440.830" timestamp="1603823227831" />
+    <state x="770" y="177" width="670" height="676" key="search.everywhere.popup" timestamp="1604952532621">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="770" y="177" width="670" height="676" key="search.everywhere.popup/0.23.1440.830@0.23.1440.830" timestamp="1604952532621" />
   </component>
 </project>
