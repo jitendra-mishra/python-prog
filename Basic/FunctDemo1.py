@@ -37,5 +37,6 @@ def fun_keyword_var(name, **data):
         print(i, j)
     print(data)
 
+print("fun_keyword_var")
 fun_keyword_var('jitu', age=22, city='blore', mob=94835)
 
